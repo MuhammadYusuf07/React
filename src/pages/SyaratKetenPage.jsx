@@ -1,5 +1,5 @@
 const SyaratKetenPage = () => {
-  return <div>SyaratKetenPage</div>;
+  return <div>SyaratKetentuanPage</div>;
 };
 
 export default SyaratKetenPage;
